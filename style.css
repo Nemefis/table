@@ -1,0 +1,37 @@
+table {
+    width: 1200px;
+}
+.orange, .white {
+    background: orange;
+    color: white;
+}
+.yellow {
+    background-color: yellow;
+}
+.center {
+    text-align: center;
+}
+.left {
+    text-align: left;
+}
+.right {
+    text-align: right;
+}
+/* .col_1 {
+    color: white;
+    background: orange;
+    font-size: 20px;
+}
+.bgyellow {
+    background: orange;
+    font-weight: bold;
+}
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+tr {
+    line-height: 20px;
+} */
